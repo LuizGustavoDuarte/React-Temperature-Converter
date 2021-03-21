@@ -7,10 +7,10 @@ This is my first React project, it was made from the requisites of DevProjects a
 
 ## Made using:
 
-### Yarn
-You need to yarn add or npm install, then in the project directory, you can run:
+### NPM
+You need to npm install, then in the project directory, you can run:
 
-`yarn start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
