@@ -24,4 +24,4 @@ I was used to Bootstrap CSS when programming in PHP so decided to use it to help
 
 Should look like this:
 
-![Working](https://github.com/LuizGustavoDuarte/React-Temperature-Converter/blob/master/descriptionPic.JPG)
+![Working](https://github.com/LuizGustavoDuarte/React-Temperature-Converter/blob/main/descriptionPic.JPG)
